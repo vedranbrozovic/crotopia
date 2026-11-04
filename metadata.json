@@ -1,0 +1,6 @@
+{
+  "name": "Croatia: A Cozy Biome Odyssey",
+  "description": "Explore the four distinct biomes of Croatia in a Polytopia-style isometric low-poly 3D world with interactive landmarks, folklore lore notes, and cozy discovery mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
